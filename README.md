@@ -17,12 +17,12 @@ And resulting
   <summary>Image results</summary>
  <table>
   <tr>
-    <td> <img src="images/3D_orbit.png" height=300> </td>
-    <td> <img src="images/efix_3d.png" height=300> </td>
+    <td> <img src="results/3D_orbit.png" height=300> </td>
+    <td> <img src="results/efix_3d.png" height=300> </td>
   </tr>
   <tr>
-    <td> <img src="images/ground_tracks.png" height=300> </td>
-    <td> <img src="images/skyplot.png" height=300> </td>
+    <td> <img src="results/ground_tracks.png" height=300> </td>
+    <td> <img src="results/skyplot.png" height=300> </td>
   </tr>
 </table> 
 </details>
@@ -33,12 +33,12 @@ Analysis of errors introduced by numberical integration of Sentinel-3.
   <summary>Image results</summary>
  <table>
   <tr>
-    <td> <img src="images/pos_undist_RSW_3x2.png" height=300> </td>
-    <td> <img src="images/pos_dist_RSW_3x2.png" height=300> </td>
+    <td> <img src="results/pos_undist_RSW_3x2.png" height=300> </td>
+    <td> <img src="results/pos_dist_RSW_3x2.png" height=300> </td>
   </tr>
   <tr>
-    <td> <img src="images/vel_undist_3x2.png" height=300> </td>
-    <td> <img src="images/vel_dist_3x2.png" height=300> </td>
+    <td> <img src="results/vel_undist_3x2.png" height=300> </td>
+    <td> <img src="results/vel_dist_3x2.png" height=300> </td>
   </tr>
 </table> 
 </details>
@@ -47,33 +47,33 @@ Analysis of errors introduced by numberical integration of Sentinel-3.
 Practical exercises supporting the lecture (ESPACE 23, TUM)
 
 ### TerraSAR & Tandem-X: Relative Motion and Hill Equations
-<img src="images/difference_hill_relative_orbit.png" height=300>
+<img src="results/difference_hill_relative_orbit.png" height=300>
 <details>
   <summary>Further results</summary>
  <table>
   <tr>
-    <td> <img src="images/motion_around_tSAR.png" height=300> </td>
-    <td> <img src="images/motion_around_tSAR_from_hill.png" height=300> </td>
+    <td> <img src="results/motion_around_tSAR.png" height=300> </td>
+    <td> <img src="results/motion_around_tSAR_from_hill.png" height=300> </td>
   </tr>
   <tr>
-    <td colspan=2> <img src="images/position_diff_inert.png" height=400> </td>
+    <td colspan=2> <img src="results/position_diff_inert.png" height=400> </td>
   </tr>
 </table> 
 </details>
 
 ### Integration of Satellite Orbits with Different Force Models
 Analysis of the influence of common perturbations on satellites of different height, i.e. GRACE and Galileo.
-<img src="images/_summary_nOrderSunMoonGalileo.png" height=300>
+<img src="results/_summary_nOrderSunMoonGalileo.png" height=300>
 <details>
   <summary>Further results</summary>
  <table>
   <tr>
-    <td> <img src="images/rAC.png" height=300> </td>
-    <td> <img src="images/rCH.png" height=300> </td>
+    <td> <img src="results/rAC.png" height=300> </td>
+    <td> <img src="results/rCH.png" height=300> </td>
   </tr>
   <tr>
-    <td> <img src="images/rAC_orb.png" height=300> </td>
-    <td> <img src="images/rCH_orb.png" height=300> </td>
+    <td> <img src="results/rAC_orb.png" height=300> </td>
+    <td> <img src="results/rCH_orb.png" height=300> </td>
   </tr>
 </table> 
 </details>
